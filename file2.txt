@@ -1,1 +1,2 @@
 this is my second file
+Editing the second file to move into staged
